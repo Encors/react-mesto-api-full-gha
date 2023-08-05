@@ -1,0 +1,6 @@
+.header__user-elements {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: flex-end;
+}
