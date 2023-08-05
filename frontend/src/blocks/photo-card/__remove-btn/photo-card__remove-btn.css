@@ -1,0 +1,9 @@
+.photo-card__remove-btn {
+  background-image: url(../../../images/Trash.svg);
+  width: 18px;
+  height: 19px;
+  background-size: cover;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}

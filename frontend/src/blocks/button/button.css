@@ -1,0 +1,21 @@
+.button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+  transition: opacity 0.3s ease;
+}
+
+.button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.button:disabled {
+  cursor: default;
+  opacity: 0;
+}

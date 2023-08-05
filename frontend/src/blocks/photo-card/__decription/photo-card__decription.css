@@ -1,0 +1,8 @@
+.photo-card__decription {
+  display: flex;
+  margin: 23px auto 23px auto;
+  max-width: 246px;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
